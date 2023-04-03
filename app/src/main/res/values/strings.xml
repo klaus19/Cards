@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="add_word">add</string>
+    <string name="tap">Tap</string>
+    <string name="to_save_the_word">to Save the Word</string>
+    <string name="add_item">Add</string>
+    <string name="zero">0</string>
+    <string name="to_learn">to Learn</string>
+    <string name="front_side">front</string>
+    <string name="back_side">back</string>
+    <string name="word1">word1</string>
+    <string name="word2">word2</string>
+</resources>
